@@ -1,10 +1,10 @@
 # Git Exercises
 
+
 ## Exercise 0: Learn Command line and Git basics online materials (optional)
 
 Read: [Command Line for Beginners – How to Use the Terminal Like a Pro [Full Handbook]](https://www.freecodecamp.org/news/command-line-for-beginners/)
 
-Some free online Git courses/tutorials available:
 
 - [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/)
   - Learn the basics of Git and GitHub, with step-by-step instructions
@@ -12,11 +12,11 @@ Some free online Git courses/tutorials available:
   - Command line and Sourcetree GUI in use, Teacher's recommendation: **choose command line**
 - [The Ultimate GIT 5-day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
 
-(You need to create a free account to access the courses)
 
+mmmd+aefpojkwefpokweopfkpe AELFNEPIfpoWEJFPEK Foweijfo  iwejfo  
 ---
 
-## Exercise 1: Git command line basics
+## Exercise 1: Git command line basics ------------------
 
 1. Install Git if missing command line tools, [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 2. Create a local repo by **cloning** (`git clone`) this lecture material from Github: <https://github.com/mattpe/git-intro.git>
@@ -49,13 +49,15 @@ Some free online Git courses/tutorials available:
    - resolve conflicts when needed, ([help](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)), commit and push
 5. Go back to 4 (once at least)
 
----
+--- tähän tuli vähän lisää kamaaaaaaaaaa
 
 ## Exercise 3: Git Workflow for the project
 
 This is a group assignment. Design a branching strategy for your software development project.
 
 Write a one page report describing the best git workflow for your team. Explain the reasons why you chose such a strategy. This document is a mutual agreement for your team how your code development flow should go. Descibe also what are the general guidelines for your commit messages.
+
+
 
 Remember that the best branching strategy for your project depends on factors like team size, project size, release cadence, and development style. It's also important to document and communicate your chosen strategy to ensure that everyone on the team understands how to use it effectively.
 
