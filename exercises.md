@@ -12,8 +12,7 @@ Some free online Git courses/tutorials available:
   - Command line and Sourcetree GUI in use, Teacher's recommendation: **choose command line**
 - [The Ultimate GIT 5-day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
 
-(You need to create a free account to access the courses)
-
+asdjasdasjidajidasdasd
 ---
 
 ## Exercise 1: Git command line basics
@@ -49,7 +48,10 @@ Some free online Git courses/tutorials available:
    - resolve conflicts when needed, ([help](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)), commit and push
 5. Go back to 4 (once at least)
 
----
+asdasd
+
+
+-  
 
 ## Exercise 3: Git Workflow for the project
 
@@ -66,3 +68,6 @@ Remember that the best branching strategy for your project depends on factors li
 Check related assignment in Oma for instructions.
 
 ---
+
+
+zetasdaasd
